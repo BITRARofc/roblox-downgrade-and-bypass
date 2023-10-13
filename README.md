@@ -3,6 +3,6 @@
 # Roblox Byfron Bypass:
 # Downloads:
 
-Roblox Without Byfron: https://github.com/cerealwithmilk/uwp/releases
-Finddler: https://www.telerik.com/download/fiddler
-File: {"data":{"UpgradeAction":"None"}}
+1. Roblox Without Byfron: https://github.com/cerealwithmilk/uwp/releases
+2. Finddler: https://www.telerik.com/download/fiddler
+3. File: {"data":{"UpgradeAction":"None"}}
